@@ -3,11 +3,19 @@
   <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
 </div>
 -->
-<h2>{{ page.title }}</h2>
-<hr/>
 
 <div class="row-fluid">
-  <div class="span12">
+  <div class="span3 bs-docs-sidebar">
+    <ul class="nav nav-list bs-docs-sidenav">
+      {% assign pages_list = site.pages %}
+      {% assign group = 'navigation' %}
+      {% include custom/pages_list %}
+    </ul>
+  </div>
+  <div class="span9">
+    <h2>{{ page.title }}</h2>
+    <hr/>
+
     {{ content }}
   </div>
 </div>
