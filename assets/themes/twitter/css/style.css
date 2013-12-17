@@ -78,3 +78,5 @@ h2, h3, h4 {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif ! important;
   font-weight: normal;
 }
+
+img[alt=logo] { float: left; }
