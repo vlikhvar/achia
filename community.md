@@ -27,15 +27,15 @@ Chronic Risk Division, Institut National de l’Environnement Industriel et des 
         </td>
     </tr>
     <tr>
-        <td><img src="/assets/images/logo_InVS.png"></td>
+        <td><img src="/assets/images/logo_cnrs.png"></td>
         <td>
 Laboratoire des Sciences du Climat et de l'Environnement (LSCE), Gif-sur-Yvette, France
         </td>
     </tr>
     <tr>
         <td>
-            <img src="/assets/images/logo_CU.png">
             <img src="/assets/images/logo_CCHP.png">
+            <img src="/assets/images/logo_CU.png">
         </td>
         <td>
 Department of Environmental Health Sciences, Columbia University in the City of New York, New York, U.S.
