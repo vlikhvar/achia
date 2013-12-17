@@ -34,6 +34,3 @@ Pascal, M., A. Ung, S. Medina, C. Declercq, Evaluation de l’impact sanitaire d
 
 Hauglustaine, D., Impact des particules sur le climat : exemple du trafic routier, Assises de la qualité de l’air : pollution par les particules: impact sur la santé, l’air et le climat, Paris, 13‐14 novembre 2012.
 
-### Annual Reports
-
-2012: Intermediate Report [PDF](/assets/pdfs/ACHIA_Report2012.pdf)
