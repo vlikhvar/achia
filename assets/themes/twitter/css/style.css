@@ -80,3 +80,7 @@ h2, h3, h4 {
 }
 
 img[alt=logo] { float: left; }
+
+.container {
+  max-width: 1000px;
+}
