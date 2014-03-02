@@ -1,32 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
+<!DOCTYPE htmlclass="pull-right" >
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
     <title>{{ page.title }}</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.3.2.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.2.3.2.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/bootstrap/css/docs.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-
-    <!-- Le fav and touch icons -->
-  <!-- Update these with your own images
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
+    <!-- CSS Global Compulsory-->
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/plugins/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/style.css">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/headers/header1.css">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/responsive.css">
+    <link rel="shortcut icon" href="favicon.ico">
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/plugins/font-awesome/css/font-awesome.css">
+    <!--
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/plugins/flexslider/flexslider.css">    	
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/plugins/parallax-slider/css/parallax-slider.css">
+    -->
+    <!-- CSS Theme -->
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/themes/default.css" id="style_color">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/themes/headers/default.css" id="style_color-header-1">
 
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
@@ -35,42 +33,171 @@
   </head>
 
   <body>
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
+
+<!--=== Top ===-->
+<div class="top">
+    <div class="container">
+        <ul class="loginbar pull-right">
+          <!--
+            <li>
+                <i class="icon-globe"></i>
+                <a>Languages</a>
+                <ul class="lenguages">
+                    <li class="active">
+                        <a href="#">English <i class="icon-ok"></i></a>
+                    </li>
+                    <li><a href="#">Spanish</a></li>
+                    <li><a href="#">Russian</a></li>
+                    <li><a href="#">German</a></li>
+                </ul>
+            </li>
+            <li class="devider"></li>
+          -->
+            <li><a href="page_faq.html">Help</a></li>
+            <!--
+            <li class="devider"></li>
+            <li><a href="page_login.html">Login</a></li>
+            -->
+        </ul>
+    </div>
+</div><!--/top-->
+<!--=== End Top ===-->
+
+    <div class="header">
+      <div class="navbar navbar-default" role="navigation">
         <div class="container">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="{{ HOME_PATH }}"><img src="{{ ASSET_PATH }}/../../images/logo_ACHIA_text20.png" alt="brand" /></a>
-          <div class="nav-collapse collapse">
-            <ul class="nav pull-right">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!--
+            <a class="navbar-brand" href="index.html">
+              <img id="logo-header" src="{{ ASSET_PATH }}/img/logo1-default.png" alt="Logo">
+            </a>
+            -->
+            <a class="brand" href="{{ HOME_PATH }}"><img id="logo-header" src="{{ ASSET_PATH }}/../../images/logo_ACHIA_text20.png" alt="Logo" /></a>
+          </div>
+          <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav navbar-right">
               {% assign pages_list = site.pages %}
               {% assign group = 'navigation' %}
               {% include JB/pages_list %}
             </ul>
+            <div class="search-open">
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search">
+                <span class="input-group-btn">
+                  <button class="btn-u" type="button">Go</button>
+                </span>
+              </div><!-- /input-group -->
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </div><!-- /header -->
 
+  <!--=== Breadcrumbs ===-->
+  <div class="breadcrumbs margin-bottom-20">
     <div class="container">
-
-      <div class="content">
-        {{ content }}
-      </div>
-      <hr>
-
-      <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
-        </p>
-      </footer>
-
+      <h1 class="pull-left">{{ page.title }}</h1>
+      <!--
+        <ul class="pull-right breadcrumb">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="">Blog</a></li>
+            <li class="active">Blog Full Width</li>
+        </ul>
+      -->
     </div>
+  </div><!--/breadcrumbs-->
+
+    <div class="container blog-full-width">
+
+      <div class="blog margin-bottom-40">
+
+        {{ content }}
+
+      </div>
+    </div>
+
+  <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 md-margin-bottom-40">
+                <!-- About -->
+                <div class="headline"><h2>About</h2></div>
+                <p class="margin-bottom-25 md-margin-bottom-40">The Air Pollution and Climate Change Health Impact Assessment project investigates the future evolution of the health burden of air pollution, in a context of changing climate.</p>
+
+            </div><!--/col-md-4-->
+
+            <div class="col-md-4 md-margin-bottom-40">
+                <div class="posts">
+                    <div class="headline"><h2>Recent Blog Entries</h2></div>
+                    <dl class="dl-horizontal">
+                        <dt><a href="#"><img src="{{ ASSET_PATH }}/img/sliders/elastislide/6.jpg" alt="" /></a></dt>
+                        <dd>
+                            <p><a href="#">Anim moon officia Unify is an incredibly beautiful responsive Bootstrap Template</a></p>
+                        </dd>
+                    </dl>
+                </div>
+            </div><!--/col-md-4-->
+
+            <div class="col-md-4">
+                <!-- Monthly Newsletter -->
+                <div class="headline"><h2>Contact Us</h2></div>
+                <address class="md-margin-bottom-40">
+                  <!--
+                    25, Lorem Lis Street, Orange <br />
+                    California, US <br />
+                  -->
+                    Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+                </address>
+
+                <!-- Stay Connected -->
+                <div class="headline"><h2>Stay Connected</h2></div>
+                <ul class="social-icons">
+                    <li><a href="#" data-original-title="Feed" class="social_rss"></a></li>
+                    <li><a href="#" data-original-title="Facebook" class="social_facebook"></a></li>
+                    <li><a href="#" data-original-title="Twitter" class="social_twitter"></a></li>
+                    <li><a href="#" data-original-title="Goole Plus" class="social_googleplus"></a></li>
+                    <li><a href="#" data-original-title="Pinterest" class="social_pintrest"></a></li>
+                    <li><a href="#" data-original-title="Linkedin" class="social_linkedin"></a></li>
+                    <li><a href="#" data-original-title="Vimeo" class="social_vimeo"></a></li>
+                </ul>
+            </div><!--/col-md-4-->
+        </div><!--/row-->
+    </div><!--/container-->
+</div><!--/footer-->
+<!--=== End Footer ===-->
+
+<!--=== Copyright ===-->
+<div class="copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <p class="copyright-space">
+                    &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+                    <!--
+                    <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+                    -->
+                    <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+                </p>
+            </div>
+            <div class="col-md-6">
+                <a href="index.html">
+                  <!--
+                    <img id="logo-footer" src="{{ ASSET_PATH }}/img/logo2-default.png" class="pull-right" alt="" />
+                  -->
+                    <img id="logo-header" src="{{ ASSET_PATH }}/../../images/logo_ACHIA_text20.png" class="pull-right" alt="Logo" />
+                </a>
+            </div>
+        </div><!--/row-->
+    </div><!--/container-->
+</div><!--/copyright-->
+<!--=== End Copyright ===-->
 
     {% include JB/analytics %}
-    <script src="assets/js/bootstrap-scrollspy.js"></script>
   </body>
 </html>
