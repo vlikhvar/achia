@@ -16,4 +16,4 @@ Location: Paris, FRANCE
 
 Contact Person: 
 
-Contact Email: 
+Contact Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
