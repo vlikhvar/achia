@@ -5,7 +5,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### ACHIA team members
+### ACHIA team
 
 <table>
     <tr>
