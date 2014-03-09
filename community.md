@@ -35,7 +35,6 @@ Laboratoire des Sciences du Climat et de l'Environnement (LSCE), Gif-sur-Yvette,
     <tr>
         <td>
             <img src="/assets/images/logo_CCHP.png">
-            <img src="/assets/images/logo_CU.png">
         </td>
         <td>
 Department of Environmental Health Sciences, Columbia University in the City of New York, New York, U.S.
