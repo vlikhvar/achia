@@ -6,11 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### Upcoming ACHIA Events
+### Past ACHIA Events
 
 #### ACHIA Workshop
 
-Date: (to be updated) 
+Date: 6th of March 2014 
 
 Location: Paris, FRANCE 
 
