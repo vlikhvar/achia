@@ -27,7 +27,7 @@ Chronic Risk Division, Institut National de l’Environnement Industriel et des 
         </td>
     </tr>
     <tr>
-        <td><img src="/assets/images/logo_cnrs.png"></td>
+        <td><img src="/assets/images/logo_lsce_100.png"></td>
         <td>
 Laboratoire des Sciences du Climat et de l'Environnement (LSCE), Gif-sur-Yvette, France
         </td>
