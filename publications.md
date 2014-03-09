@@ -28,9 +28,19 @@ Colette, A. Bessagnet, B., Vautard, R., Szopa, S., Clain, G., Menut, L., Tripath
 
 ### Communications to Conferences
 
-Kinney, P. Global health and climate impacts of particle emission sources: optimizing benefits of mitigation, Assises de la qualité de l’air : pollution par les particules: impact sur la santé, l’air et le climat, Paris, 13‐14 novembre 2012.
+Likhvar, V. Markakis, K., Valari, M. Colette, A., Hauglustaine, D., Medina, S., Pascal, M., Kinney, P., Quantifying health impacts of air pollution under a changing climate: from a global to the regional and local scales, Environment and Health – Bridging South, North, East and West Conference of ISEE, ISES and ISIAQ Basel, Switzerland 19 – 23 August 2013
 
-Pascal, M., A. Ung, S. Medina, C. Declercq, Evaluation de l’impact sanitaire de la pollution atmosphérique : méthode et résultats, Assises de la qualité de l’air : pollution par les particules: impact sur la santé, l’air et le climat, Paris, 13‐14 novembre 2012.
+Likhvar, V. Markakis, K., Valari, M. Colette, A., Hauglustaine, D., Medina, S., Pascal, M., Kinney, P., A review of quantitative health impact assessments of ozone and particulate matter under a changing climate , Environment and Health – Bridging South, North, East and West Conference of ISEE, ISES and ISIAQ Basel, Switzerland 19 – 23 August 2013
 
-Hauglustaine, D., Impact des particules sur le climat : exemple du trafic routier, Assises de la qualité de l’air : pollution par les particules: impact sur la santé, l’air et le climat, Paris, 13‐14 novembre 2012.
+Hauglustaine, D. A., Y. Balkanski, and M. Schulz, A global model simulation of present and future nitrate aerosols and their direct radiative forcing of climate, Atmos. Chem. Phys. Discussions, 2014
+
+Markakis, K., Valari, M., Colette, A., Sanchez, O., Perrussel, O., Honore, C., Vautard, R., Klimont, Z., Rao, S. Air-quality in the mid-21st century for the city of Paris under two climate scenarios; from regional to local scale. Atmospheric Chemistry and Physics Discussions, 14 (1): 1-1238
+
+Colette, A., Bessagnet, B., Vautard, R., Szopa, S., Rao, S., Schucht, S., Klimont, Z., Menut, L., Clain, G., Meleux, F., Curci, G., and Rouïl, L.: European atmosphere in 2050, a regional air quality and climate perspective under CMIP5 scenarios, Atmos. Chem. Phys., 13, 7451-7471, 2013
+
+Kinney, P. Global health and climate impacts of particle emission sources: optimizing benefits of mitigation, Assises de la qualité de l’air : pollution par les particules: impact sur la santé, l’air et le climat, Paris, 13‐14 novembre 2012
+
+Pascal, M., A. Ung, S. Medina, C. Declercq, Evaluation de l’impact sanitaire de la pollution atmosphérique : méthode et résultats, Assises de la qualité de l’air : pollution par les particules: impact sur la santé, l’air et le climat, Paris, 13‐14 novembre 2012
+
+Hauglustaine, D., Impact des particules sur le climat : exemple du trafic routier, Assises de la qualité de l’air : pollution par les particules: impact sur la santé, l’air et le climat, Paris, 13‐14 novembre 2012
 
