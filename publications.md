@@ -28,9 +28,9 @@ Colette, A. Bessagnet, B., Vautard, R., Szopa, S., Clain, G., Menut, L., Tripath
 
 ### Communications to Conferences
 
-Likhvar, V. Markakis, K., Valari, M. Colette, A., Hauglustaine, D., Medina, S., Pascal, M., Kinney, P., Quantifying health impacts of air pollution under a changing climate: from a global to the regional and local scales, Environment and Health – Bridging South, North, East and West Conference of ISEE, ISES and ISIAQ Basel, Switzerland 19 – 23 August 2013
+Likhvar, V. Markakis, K., Valari, M. Colette, A., Hauglustaine, D., Medina, S., Pascal, M., Kinney, P., Quantifying health impacts of air pollution under a changing climate: from a global to the regional and local scales, Environment and Health – Bridging South, North, East and West Conference of ISEE, ISES and ISIAQ Basel, Switzerland 19 – 23 August 2013 [[PDF]({{ ASSET_PATH }}/../../pdfs/ISEE_VICTORIA__LIKHVAR_90x120_V2.qxp_HD_V3.pdf)]
 
-Likhvar, V. Markakis, K., Valari, M. Colette, A., Hauglustaine, D., Medina, S., Pascal, M., Kinney, P., A review of quantitative health impact assessments of ozone and particulate matter under a changing climate , Environment and Health – Bridging South, North, East and West Conference of ISEE, ISES and ISIAQ Basel, Switzerland 19 – 23 August 2013
+Likhvar, V. Markakis, K., Valari, M. Colette, A., Hauglustaine, D., Medina, S., Pascal, M., Kinney, P., A review of quantitative health impact assessments of ozone and particulate matter under a changing climate , Environment and Health – Bridging South, North, East and West Conference of ISEE, ISES and ISIAQ Basel, Switzerland 19 – 23 August 2013 [[PDF]({{ ASSET_PATH }}/../../pdfs/ISEE_CLIMAT_VICTORIA__LIKHVAR_V2_90x120.qxp_HD_v4.pdf)]
 
 Hauglustaine, D. A., Y. Balkanski, and M. Schulz, A global model simulation of present and future nitrate aerosols and their direct radiative forcing of climate, Atmos. Chem. Phys. Discussions, 2014
 
