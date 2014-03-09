@@ -41,6 +41,12 @@ Laboratoire des Sciences du Climat et de l'Environnement (LSCE), Gif-sur-Yvette,
 Department of Environmental Health Sciences, Columbia University in the City of New York, New York, U.S.
         </td>
     </tr>
+    <tr>
+        <td><img src="/assets/images/logo_UVSQ.JPG"></td>
+        <td>
+L'université de Versailles-Saint-Quentin-en-Yvelines (UVSQ), France
+        </td>
+    </tr>    
 </table>
 
 <br>
