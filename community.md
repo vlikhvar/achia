@@ -42,7 +42,7 @@ Department of Environmental Health Sciences, Columbia University in the City of 
         </td>
     </tr>
     <tr>
-        <td><img src="/assets/images/logo_UVSQ.JPG"></td>
+        <td><img src="/assets/images/logo_UVSQ_100.png"></td>
         <td>
 L'université de Versailles-Saint-Quentin-en-Yvelines (UVSQ), France
         </td>
