@@ -10,7 +10,7 @@ group: navigation
 
 #### ACHIA Workshop
 
-Date: 6th of March 2014 
+Date: 6 March 2014 
 
 Location: Paris, FRANCE 
 
@@ -18,7 +18,11 @@ Contact Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}<
 
 ### Past Events
 
-#### Conference of ISEE, ISES and ISIAQ "Environment and Health – Bridging South, North, East and West", Basel, Switzerland 19 – 23 August 2013
+#### Conference of ISEE, ISES and ISIAQ "Environment and Health – Bridging South, North, East and West" 
+
+Date: 19 – 23 August 2013
+
+Location: Basel, SWITZERLAND
 
 Two posters were presented at the conference: 
 ([Poster 1]({{ ASSET_PATH }}/../../pdfs/ISEE_CLIMAT_VICTORIA__LIKHVAR_V2_90x120.qxp_HD_v4.pdf), 
