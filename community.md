@@ -5,7 +5,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### ACHIA team
+<div class="headline"><h2>Our team</h2></div>
 
 <table>
     <tr>
