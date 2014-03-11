@@ -132,7 +132,6 @@
 	font-size: 15px;
 	font-weight:400;
 	padding: 9px 20px;
-	padding: 70px 20px 9px 20px;
 	text-transform: uppercase;
 }
 
@@ -233,6 +232,10 @@
 	.header .navbar-default .navbar-nav > li > a:focus {	
 		border-bottom: solid 2px transparent;
 	}
+
+  .header .navbar-default .navbar-nav > li > a {
+    padding: 70px 20px 9px 20px;
+  }
 
 	.header .navbar-default .navbar-nav > li > a:hover,
 	.header .navbar-default .navbar-nav > .active > a {
