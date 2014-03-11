@@ -5,7 +5,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### Journal Articles
+<div class="headline"><h2>Journal Articles</h2></div>
 
 Colette, A., Bessagnet, B., Rouïl L., Koelemeijer R., Maas R., On the role of low carbon scenarios on 2050 European air quality and radiative forcing, ETC/ACM Technical Report, EEA, 2012.
 
@@ -18,7 +18,7 @@ K. Markakis, M.Valari, A. Colette, D.Hauglustaine, O. Sanchez, O. Perroussel, Ai
 
 V. Likhvar et al., Literature review, Under preparation.
 
-### Related Publications
+<div class="headline"><h2>Related Publications</h2></div>
 
 Colette, A., C. Granier, O. Hodnebrog, H. Jakobs, A. Maurizi, A. Nyiri, S. Rao, M. Amann, B. Bessagnet, A. D'Angiola, M. Gauss, C. Heyes, Z. Klimont, F. Meleux, M. Memmesheimer, A. Mieville, L. Rouïl, F. Russo, S. Schucht, D. Simpson, F. Stordal, F. Tampieri and M. Vrac, Future air quality in Europe: a multi‐model assessment of projected exposure to ozone, Atmos. Chem. Phys., 12, 10613‐10630, 2012.
 
@@ -26,7 +26,7 @@ Colette, A., R. Vautard and M. Vrac, Regional climate downscaling with prior sta
 
 Colette, A. Bessagnet, B., Vautard, R., Szopa, S., Clain, G., Menut, L., Tripathi, O., Schucht, S., Rao, S. Europe in 2050, a regional air quality and climate perspective. to be submitted to Atmos. Env.
 
-### Communications to Conferences
+<div class="headline"><h2>Communications to Conferences</h2></div>
 
 Likhvar, V. Markakis, K., Valari, M. Colette, A., Hauglustaine, D., Medina, S., Pascal, M., Kinney, P., Quantifying health impacts of air pollution under a changing climate: from a global to the regional and local scales, Environment and Health – Bridging South, North, East and West Conference of ISEE, ISES and ISIAQ Basel, Switzerland 19 – 23 August 2013 [[PDF]({{ ASSET_PATH }}/../../pdfs/ISEE_VICTORIA__LIKHVAR_90x120_V2.qxp_HD_V3.pdf)]
 
