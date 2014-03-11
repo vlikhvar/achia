@@ -7,6 +7,83 @@ group: navigation
 
 <div class="headline"><h2>Our team</h2></div>
 
+<div class="row team">
+        <div class="col-sm-3">
+            <div class="thumbnail-style">
+                <img class="img-responsive" src="assets/images/logo_CCHP.png" alt="">
+                <h3><a>CU</a> <small>Columbia University in the City of New York</small></h3>
+                <p>Department of Environmental Health Sciences, New York, U.S.</p>
+                <ul class="list-unstyled list-inline team-socail">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="thumbnail-style">
+                <img class="img-responsive" src="assets/images/logo_lsce_100.png" alt="">
+                <h3><a>LSCE</a> <small>Laboratoire des Sciences du Climat et de l'Environnement></h3>
+                <p>Gif-sur-Yvette, France</p>
+                <ul class="list-unstyled list-inline team-socail">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="thumbnail-style">
+                <img class="img-responsive" src="assets/images/logo_ineris.png" alt="">
+                <h3><a>INERIS</a> <small>Institut National de l’Environnement Industriel et des Risques</small></h3>
+                <p>Chronic Risk Division, Paris, France</p>
+                <ul class="list-unstyled list-inline team-socail">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="thumbnail-style">
+                <img class="img-responsive" src="assets/images/logo_InVS.png" alt="">
+                <h3><a>InVS</a> <small>Institute de Veille Sanitaire</small></h3>
+                <p>Department of Environmental Health, Institute of Public Health Surveillance, Saint Maurice, France</p>
+                <ul class="list-unstyled list-inline team-socail">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="thumbnail-style">
+                <img class="img-responsive" src="assets/images/logo_LMD.png" alt="">
+                <h3><a>LMD</a> <small>Laboratoire de Meteorologie Dynamique</small></h3>
+                <p>Institut Perre Simon Laplace (IPSL), Ecole Polytechnique, Palaiseau, France</p>
+                <ul class="list-unstyled list-inline team-socail">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="thumbnail-style">
+                <img class="img-responsive" src="assets/images/logo_UVSQ_100.png" alt="">
+                <h3><a>UVSQ</a> <small>L'université de Versailles-Saint-Quentin-en-Yvelines</small></h3>
+                <p>France</p>
+                <ul class="list-unstyled list-inline team-socail">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+<div class="headline"><h2>Our team</h2></div>
+
 <table>
     <tr>
         <td><img src="/assets/images/logo_InVS.png"></td>
