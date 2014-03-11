@@ -50,8 +50,6 @@ L'université de Versailles-Saint-Quentin-en-Yvelines (UVSQ), France
 
 <br>
 
-<hr class="margin-bottom-30">
-
-### Sponsors
+<div class="headline"><h2>Our Sponsors</h2></div>
 
 GIS / ADEME
