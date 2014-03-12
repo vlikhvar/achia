@@ -9,7 +9,7 @@ group: navigation
 
 ACHIA is designed to create an interdisciplinary approach to the impacts of climate change on health through air quality changes, and to start longer‐term collaborations between communities. We expect the project to advance state of art across all working groups (WGs), with important implications for research groups around the world. A particular innovation of the project is the multi‐scale aspect, i.e., the analysis of climate, air quality and health at the global, regional and urban scales using consistent methodologies. Comparison of health findings across scales will provide unique insights into the importance of geographic scale in assessing health impacts of alternative climate and air quality scenarios.
 
-<h3>WG1. Global Climate and Air Pollution Impacts of Alternative Emissions Pathways</h3>
+<h4 class="color-green">WG1. Global Climate and Air Pollution Impacts of Alternative Emissions Pathways</h4>
 
 Projections of climate and air quality (PM2.5 and ozone) at the global scale are being developed with the LMDz‐ INCA global model, run using the four IPCC representative concentration pathways (RCPs) for the 2030 to 2050 time horizon. Model outputs will be available at a spatial resolution of 3.75° in longitude and 1.9° in latitude. Comparison across the RCPs will answer the question, “what are the global health implications of various greenhouse gas control policies?”
 
