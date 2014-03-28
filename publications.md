@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 group: navigation
+order: 4
 ---
 {% include JB/setup %}
 
