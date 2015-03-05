@@ -12,7 +12,7 @@ Victoria LIKHVAR, Mathilde PASCAL, Konstantinos MARKAKIS, Augustin COLETTE, Didi
 
 Colette, A., Bessagnet, B., Rouïl L., Koelemeijer R., Maas R., On the role of low carbon scenarios on 2050 European air quality and radiative forcing, ETC/ACM Technical Report, EEA, 2012.
 
-Hauglustaine, D.A., Balkanski, Y., Schulz, M., 2014. A global model simulation of present and future nitrate aerosols and their direct radiative forcing of climate. Atmos. Chem. Phys. 14, 11031–11063. http://dx.doi.org/10.5194/acp-14-11031-2014.
+Hauglustaine, D.A., Balkanski, Y., Schulz, M., 2014. A global model simulation of present and future nitrate aerosols and their direct radiative forcing of climate. Atmos. Chem. Phys. 14, 11031–11063. [[**PDF**]](http://dx.doi.org/10.5194/acp-14-11031-2014)
 
 K. Markakis, M.Valari, O. Sanchez, O. Perroussel, A. Colette, Fine resolution air‐quality modeling air‐quality in Paris, France based on local emission projections for year 2020. Under preparation.
 
