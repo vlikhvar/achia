@@ -8,7 +8,7 @@ order: 4
 
 <div class="headline"><h2>Journal Articles</h2></div>
 
-Victoria LIKHVAR, Mathilde PASCAL, Konstantinos MARKAKIS, Augustin COLETTE, Didier HAUGLUSTAINE, Myrto VALARI, Zig Klimont, Sylvia MEDINA, Patrick KINNEY. A Multi-Scale Health Impact Assessment of Air Pollution Over the 21st Century. STOTEN, 514, 439-49, 2015 [[PDF]](http://ac.els-cdn.com/S0048969715001345/1-s2.0-S0048969715001345-main.pdf?_tid=4114b16a-b480-11e4-8163-00000aab0f6b&acdnat=1423942546_d5edb72275f88e476bba37e0af9aaa46)
+Victoria LIKHVAR, Mathilde PASCAL, Konstantinos MARKAKIS, Augustin COLETTE, Didier HAUGLUSTAINE, Myrto VALARI, Zig Klimont, Sylvia MEDINA, Patrick KINNEY. A Multi-Scale Health Impact Assessment of Air Pollution Over the 21st Century. STOTEN, 514, 439-49, 2015 [[PDF]](http://authors.elsevier.com/a/1QXrAB8ccTwW1)
 
 Colette, A., Bessagnet, B., Rouïl L., Koelemeijer R., Maas R., On the role of low carbon scenarios on 2050 European air quality and radiative forcing, ETC/ACM Technical Report, EEA, 2012.
 
