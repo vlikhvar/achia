@@ -8,7 +8,7 @@ order: 4
 
 <div class="headline"><h2>Journal Articles</h2></div>
 
-Victoria LIKHVAR, Mathilde PASCAL, Konstantinos MARKAKIS, Augustin COLETTE, Didier HAUGLUSTAINE, Myrto VALARI, Zig Klimont, Sylvia MEDINA, Patrick KINNEY. A Multi-Scale Health Impact Assessment of Air Pollution Over the 21st Century. STOTEN, 514, 439-49, 2015. [[**PDF**]](http://authors.elsevier.com/a/1QXrAB8ccTwW1)
+Victoria LIKHVAR, Mathilde PASCAL, Konstantinos MARKAKIS, Augustin COLETTE, Didier HAUGLUSTAINE, Myrto VALARI, Zig Klimont, Sylvia MEDINA, Patrick KINNEY. A Multi-Scale Health Impact Assessment of Air Pollution Over the 21st Century. STOTEN, 514, 439-49, 2015. [[**PDF**]({{ ASSET_PATH }}/../../pdfs/ACHIA_publishes_paper.pdf)]
 
 Hauglustaine, D.A., Balkanski, Y., Schulz, M., 2014. A global model simulation of present and future nitrate aerosols and their direct radiative forcing of climate. Atmos. Chem. Phys. 14, 11031–11063. [[**PDF**]](http://dx.doi.org/10.5194/acp-14-11031-2014)
 
