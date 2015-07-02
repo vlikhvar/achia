@@ -44,4 +44,5 @@ Hauglustaine, D., Impact des particules sur le climat : exemple du trafic routie
 <div class="headline"><h2>Brochures</h2></div>
 
 Estimating the future health impacts of air pollution at the global, regional and urban scales.[[**PDF**]({{ ASSET_PATH }}/../../pdfs/ACHIA_brochure-En.pdf)]
+
 Estimer les impacts sanitaires futurs de la pollution de l’air dans le monde, en Europe et en Ile-de-France. [[**PDF**]({{ ASSET_PATH }}/../../pdfs/ACHIA_brochure-Fr.pdf)]
